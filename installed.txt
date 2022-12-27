@@ -1,0 +1,27 @@
+ubuntu-wsl
+neofetch
+pip
+python3-venv
+intel-opencl-icd
+pypy3
+build-essential gdb
+neovim
+python3-bs4
+ca-certificates curl gnupg lsb-release
+zsh
+gedit
+vlc
+graphviz
+tty-clock
+jupyter-nbconvert
+texlive-xetex texlive-fonts-recommended texlive-plain-generic
+libncurses5-dev libncursesw5
+libncurses5-dev libncursesw5-dev
+tldr
+-y curl unzip xvfb libxi6 libgconf-2-4
+./google-chrome-stable_current_amd64.deb
+mpv
+yt-dlp
+ranger
+powertop
+tree
